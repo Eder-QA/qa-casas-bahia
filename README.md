@@ -1,7 +1,7 @@
-# 🧪 Projeto de QA – Testes em E-commerce
+Projeto de QA – Testes Funcionais em E-commerce
 
 ## 📌 Sistema testado
-Casas Bahia (Web)
+Casas Bahia (Aplicação Web – Ambiente de Produção)
 
 ## 🎯 Objetivo
 Realizar testes na funcionalidade de busca e fluxo de login, identificando falhas que impactam a experiência do usuário e o funcionamento do sistema.
@@ -27,8 +27,9 @@ Realizar testes na funcionalidade de busca e fluxo de login, identificando falha
 ## 🐞 Bugs Encontrados
 
 ### 🔴 BUG-01 – Erro 404 ao buscar caracteres especiais
+- Tipo: Funcional  
 - Severidade: Alta  
-- Descrição: Inserção de caracteres especiais na busca redireciona para página de erro 404  
+- Descrição: Inserção de caracteres especiais na busca redireciona o usuário para uma página de erro 404, interrompendo o fluxo da aplicação  
 
 ---
 
