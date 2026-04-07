@@ -46,4 +46,4 @@ Ocorre de forma consistente (reproduzido múltiplas vezes)
 
 ## 📸 Evidência
 
-(Adicionar print futuramente)
+![Login travado](bug-02-login-travado.png.png)
