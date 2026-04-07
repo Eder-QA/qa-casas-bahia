@@ -48,4 +48,4 @@ Ocorre de forma consistente (reproduzido múltiplas vezes)
 
 ## 📸 Evidência
 
-(Adicionar print futuramente)
+![Erro 404](bug-01-erro-404.png.png)
